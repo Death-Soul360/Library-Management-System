@@ -39,9 +39,9 @@ This project manages:
 ---
 
 ## 📂 Project Structure
-├── Library_Management_Process.java # Main Library management logic
-├── Book_Details.java # Book details class
-├── MemberInfo.java # Member details class
-├── Transaction_Details.java # Transaction details class
+- Library_Management_Process.java # Main Library management logic
+- Book_Details.java # Book details class
+- MemberInfo.java # Member details class
+- Transaction_Details.java # Transaction details class
 ├── Main.java # (Optional) menu-driven main class
 └── README.md # Documentation
