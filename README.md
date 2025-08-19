@@ -43,5 +43,5 @@ This project manages:
 - Book_Details.java # Book details class
 - MemberInfo.java # Member details class
 - Transaction_Details.java # Transaction details class
-├── Main.java # (Optional) menu-driven main class
-└── README.md # Documentation
+- Main.java # (Optional) menu-driven main class
+- README.md # Documentation
